@@ -1,0 +1,11 @@
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\bin\Debug\ryTutulanSayiyiBulma.exe.config
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\bin\Debug\ryTutulanSayiyiBulma.exe
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\bin\Debug\ryTutulanSayiyiBulma.pdb
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.Properties.Resources.resources
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.sayiTahminiForm.resources
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.exe
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.pdb
+C:\Repos\BIP2503 - 06.HAFTA\FINISHED\62_ryTutulanSayiyiBulma\ryTutulanSayiyiBulma\obj\Debug\ryTutulanSayiyiBulma.SeviyeForm.resources
